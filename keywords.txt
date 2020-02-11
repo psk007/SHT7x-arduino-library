@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For arduino-sht
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SHT_7x     KEYWORD1
+Accuracy    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init  KEYWORD2
+setAccuracy    KEYWORD2
+getHumidity KEYWORD2
+getTemperature  KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
